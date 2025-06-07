@@ -1,0 +1,10 @@
+{
+  "name": "ShotShare",
+  "version": "1.0.0",
+  "description": "ShotShare is the ultimate app to create and securely share short videos with your friends. With a simple interface and no chat distractions, ShotShare focuses on private, fun, and fast video sharing.",
+  "icon_url": "https://github.com/sanjay434343/Shoti/blob/main/logo.png?raw=true",
+  "release": "https://github.com/sanjay434343/Shoti/releases/tag/1.0.0",
+  "package_name": "com.example.shotshare",
+  "changelog": "Initial release: Secure video sharing, user login/signup, and distraction-free short video creation.",
+  "category": "Social"
+}
